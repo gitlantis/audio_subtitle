@@ -65,7 +65,7 @@
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
 build
-assets
+assets/*.mp3
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
